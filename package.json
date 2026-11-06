@@ -1,11 +1,11 @@
 {
-  "name": "cinematic-portfolio",
-  "version": "0.1.0",
+  "name": "sukeshv-portfolio",
+  "version": "1.0.0",
   "private": true,
   "author": {
-    "name": "Jeyadev R",
-    "email": "jeyadev2006@gmail.com",
-    "url": "https://github.com/jeyadev-jd"
+    "name": "Sukesh V",
+    "email": "sukeshkavin@gmail.com",
+    "url": "https://github.com/sukesh2730"
   },
   "scripts": {
     "build": "next build",
