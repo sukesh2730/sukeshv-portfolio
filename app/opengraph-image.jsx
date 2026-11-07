@@ -251,7 +251,7 @@ export default function Image() {
             letterSpacing: 2,
           }}
         >
-          jeyadev.dev
+          sukeshv-portfolio.vercel.app
         </div>
       </div>
     ),
